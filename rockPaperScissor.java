@@ -90,9 +90,9 @@ public class rockPaperScissor
                 System.out.println("Scissors vs Scissors. It's a Tie");
             }
 
-            // Prompt user to play again
-            System.out.println("Do you want to play again [Y/N]: ");
-            ContinueGame = in.nextLine();
+        // Prompt user to play again
+        System.out.println("Do you want to play again [Y/N]: ");
+        ContinueGame = in.nextLine();
         }
         
 
